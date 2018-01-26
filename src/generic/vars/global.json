@@ -1,0 +1,5 @@
+{
+  "api" : {
+    "url" : "http://pilotnews-api.local/app_dev.php"
+  }
+}
